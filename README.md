@@ -1,0 +1,3 @@
+# medadi
+
+Developed by theeych
